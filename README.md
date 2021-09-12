@@ -8,5 +8,6 @@ For more information on how to run this project:
 First download the .ttt file, import it into coppeliaSim and click on Run. The baxter will not make any movements at this point as it is controlled by python. Afterwards, download all the files from the python folder to a directory of the same level and run main__1.py with vs code to drive the baxter in coppeliaSim.
 
 
-The code testing vedio:
-https://user-images.githubusercontent.com/80648551/133003235-26aa5b13-bc1a-4fbb-ab55-d7ef0e7d0c9e.mov
+The code testing vedio:(without suction cup)
+https://user-images.githubusercontent.com/80648551/133003807-b4e26310-2bcd-49a6-bfe2-2f9cd7334fc0.mov
+
