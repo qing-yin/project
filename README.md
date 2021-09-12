@@ -12,3 +12,6 @@ The code testing vedio:(without suction cup)
 https://user-images.githubusercontent.com/80648551/133003935-24c03b4a-d763-4350-bcc6-675e671690cc.mov
 
 https://user-images.githubusercontent.com/80648551/133003949-ac7b033c-0e60-49e7-92cc-2054e0bf46f6.mov
+
+The stacking task:
+As this part of the video file is too large, they have been split into two parts and only the key parts have been cut.
