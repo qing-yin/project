@@ -9,6 +9,4 @@ First download the .ttt file, import it into coppeliaSim and click on Run. The b
 
 
 The code testing vedio:(without suction cup)
-https://user-images.githubusercontent.com/80648551/133003807-b4e26310-2bcd-49a6-bfe2-2f9cd7334fc0.mov
 
-https://user-images.githubusercontent.com/80648551/133003834-9a0ab65b-f471-4c22-959c-07eea664792a.mov
