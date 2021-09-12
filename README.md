@@ -9,16 +9,7 @@ First download the .ttt file, import it into coppeliaSim and click on Run. The b
 
 For human action information you need to click on the link to download the video.
 The code testing vedio:(without suction cup)
-https://user-images.githubusercontent.com/80648551/133003935-24c03b4a-d763-4350-bcc6-675e671690cc.mov
 
-https://user-images.githubusercontent.com/80648551/133004480-8214c863-8c32-4cfe-ba8d-d9646f780cec.mov
 
 The stacking task:
 As this part of the video file is too large, they have been split into two parts and only the key parts have been cut.
-https://user-images.githubusercontent.com/80648551/133004097-a74a5776-0047-420b-904d-5b5491251cc9.mov
-
-
-https://user-images.githubusercontent.com/80648551/133004108-ca702382-c4ec-48b9-8f05-173b30b0a583.mov
-
-
-https://user-images.githubusercontent.com/80648551/133004116-1888574d-6ecb-47ff-bfe6-3b017b567192.mov
