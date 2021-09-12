@@ -6,3 +6,7 @@ The .ttt file in the coppeliaSim folder is the coppeliaSim scenario, the main_1.
 
 For more information on how to run this project:
 First download the .ttt file, import it into coppeliaSim and click on Run. The baxter will not make any movements at this point as it is controlled by python. Afterwards, download all the files from the python folder to a directory of the same level and run main__1.py with vs code to drive the baxter in coppeliaSim.
+
+
+The code testing vedio:
+https://user-images.githubusercontent.com/80648551/133003235-26aa5b13-bc1a-4fbb-ab55-d7ef0e7d0c9e.mov
