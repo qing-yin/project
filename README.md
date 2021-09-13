@@ -24,3 +24,5 @@ https://user-images.githubusercontent.com/80648551/133005367-eeb2c1a7-02f9-453d-
 
 
 https://user-images.githubusercontent.com/80648551/133005369-f56bb6e7-870a-42d7-89a6-a8ccf326fe0c.mp4
+
+The completion of this project is thanks to the help of our seniors Ruidong Ma and Jingyu Chen and our supervisor Dr John Oyekan.
